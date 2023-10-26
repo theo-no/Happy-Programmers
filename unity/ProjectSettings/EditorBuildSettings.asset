@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CharacterSetting.unity
     guid: df21791d43fc1e144a42ce9eb6dc792f
+  - enabled: 1
+    path: Assets/Scenes/GameMarket.unity
+    guid: 49263f87ccb8d5c45948e9d103200b87
   m_configObjects: {}
