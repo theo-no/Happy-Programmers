@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dd5a23847a97c8a41921bdf0198fc05c, type: 3}
-  m_Name: Hamburger
+  m_Name: Keyboard2
   m_EditorClassIdentifier: 
-  itemName: "\uD584\uBC84\uAC70"
-  itemType: 1
-  itemImage: {fileID: 21300000, guid: d1b9347f4e82d844eb69321127c95c2c, type: 3}
-  itemPrefab: {fileID: 4655554675270052649, guid: ab5a6a258cfb63449a6517ab46a30937, type: 3}
-  weaponType: 
+  itemName: "\uD0A4\uBCF4\uB4DC2"
+  itemType: 0
+  itemImage: {fileID: 21300000, guid: 1fa3617accc5d9640b9afd82c4b6a9b7, type: 3}
+  itemPrefab: {fileID: 9135936527489010621, guid: b8df1406b5d53dd43ad0e51b3230f8a5, type: 3}
+  weaponType: 1
