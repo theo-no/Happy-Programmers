@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dd5a23847a97c8a41921bdf0198fc05c, type: 3}
-  m_Name: Keyboard2
+  m_Name: Mouse3
   m_EditorClassIdentifier: 
-  itemName: keyboard2
+  itemName: mouse3
   itemType: 0
-  itemImage: {fileID: 21300000, guid: 1fa3617accc5d9640b9afd82c4b6a9b7, type: 3}
-  itemPrefab: {fileID: 9135936527489010621, guid: b8df1406b5d53dd43ad0e51b3230f8a5, type: 3}
-  weaponType: 1
+  itemImage: {fileID: 21300000, guid: 40a5b9bec95374e4db037f03f04ef54a, type: 3}
+  itemPrefab: {fileID: 3032886209139047780, guid: 67439c0cb3cb53c4c87086848217519f, type: 3}
+  weaponType: 2

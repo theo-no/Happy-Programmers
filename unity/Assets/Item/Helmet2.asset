@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dd5a23847a97c8a41921bdf0198fc05c, type: 3}
-  m_Name: Keyboard2
+  m_Name: Helmet2
   m_EditorClassIdentifier: 
-  itemName: keyboard2
+  itemName: helmet2
   itemType: 0
-  itemImage: {fileID: 21300000, guid: 1fa3617accc5d9640b9afd82c4b6a9b7, type: 3}
-  itemPrefab: {fileID: 9135936527489010621, guid: b8df1406b5d53dd43ad0e51b3230f8a5, type: 3}
-  weaponType: 1
+  itemImage: {fileID: 21300000, guid: 191c96e1e3fab0141ba000ae31798abe, type: 3}
+  itemPrefab: {fileID: 3745553316623244741, guid: ac107bd6268b1f74b84d3431d1ea8734, type: 3}
+  weaponType: 
