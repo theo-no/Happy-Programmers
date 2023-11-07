@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Meterial/01. UnityAssets/Gutty Kreum/Japanese Office Interior/Demo/SampleScene.unity
+    path: Assets/Scenes/CharacterTest.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/GameLogin.unity
@@ -20,4 +20,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CharacterSetting.unity
     guid: df21791d43fc1e144a42ce9eb6dc792f
+  - enabled: 1
+    path: Assets/Scenes/LobbyMap.unity
+    guid: 5095cd247cdf79c4fb5ee47df8ff6869
+  - enabled: 1
+    path: Assets/Scenes/LiftMap.unity
+    guid: 3701cab3f1ed2e54499a44c777b6a651
+  - enabled: 1
+    path: Assets/Scenes/OfficeMap.unity
+    guid: 01cb2005e2b5fed41addc1e058844a0e
+  - enabled: 1
+    path: Assets/Scenes/MiniGameMap.unity
+    guid: 621414501bd9a4845bf8597f32fb037a
   m_configObjects: {}
