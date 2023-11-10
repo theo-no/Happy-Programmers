@@ -5,13 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Item
-<<<<<<< HEAD
   - Monster
   - Bullet
-=======
-  - Bullet
-  - Monster
->>>>>>> 7b4eb5d69a707f081f71f09f25ee4d790bdfaab2
   - MiniGamePortal
   layers:
   - Default
