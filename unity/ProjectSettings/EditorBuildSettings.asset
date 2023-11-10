@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MiniGameMap.unity
     guid: 621414501bd9a4845bf8597f32fb037a
+  - enabled: 1
+    path: Assets/Scenes/StairsMap.unity
+    guid: 78a2016afdf5c5149860d9d76d77214a
   m_configObjects: {}
