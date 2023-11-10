@@ -5,8 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Item
+<<<<<<< HEAD
   - Monster
   - Bullet
+=======
+  - Bullet
+  - Monster
+>>>>>>> 7b4eb5d69a707f081f71f09f25ee4d790bdfaab2
   - MiniGamePortal
   layers:
   - Default
@@ -15,9 +20,9 @@ TagManager:
   - Player
   - Water
   - UI
-  - Item
   - 
-  - No Passing
+  - 
+  - 
   - 
   - Monster
   - 
@@ -44,7 +49,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: UI
-    uniqueID: 2680868951
     locked: 0
