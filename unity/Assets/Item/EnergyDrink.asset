@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dd5a23847a97c8a41921bdf0198fc05c, type: 3}
-  m_Name: Mouse1
+  m_Name: EnergyDrink
   m_EditorClassIdentifier: 
-  itemName: "\uBB38\uBC29\uAD6C \uB9C8\uC6B0\uC2A4"
-  itemType: 0
-  itemImage: {fileID: 21300000, guid: fc07ddcdb024e3847b6dbcdfab2fe217, type: 3}
-  itemPrefab: {fileID: 3491892123900720536, guid: b1be75b6042d61d4d95a7191df96e8b0, type: 3}
-  weaponType: 2
+  itemName: "\uC5D0\uB108\uC9C0\uB4DC\uB9C1\uD06C"
+  itemType: 1
+  itemImage: {fileID: 21300000, guid: e54bad592e0a7b14fa975828fe119467, type: 3}
+  itemPrefab: {fileID: 2248509320653883731, guid: 9043cc5283f28964d8fa7a1d70891bea, type: 3}
+  weaponType: 
