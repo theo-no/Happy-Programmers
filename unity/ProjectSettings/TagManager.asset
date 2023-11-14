@@ -3,28 +3,27 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< Updated upstream
   tags:
   - Item
-<<<<<<< HEAD
   - Monster
   - Bullet
-=======
-  - Bullet
-  - Monster
->>>>>>> 7b4eb5d69a707f081f71f09f25ee4d790bdfaab2
   - MiniGamePortal
+=======
+  tags: []
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - 
   - Water
   - UI
   - 
   - 
   - 
   - 
-  - Monster
+  - 
   - 
   - 
   - 
