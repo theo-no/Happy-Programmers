@@ -50,3 +50,4 @@ MonoBehaviour:
   questManagerPrefab: {fileID: 856841077437523830, guid: bce9bd20abadecc44a58b8bd128da630, type: 3}
   cameraManagerPrefab: {fileID: 2263163089154460632, guid: 26ab07c8ea37e114fb2386ea174883e1, type: 3}
   characterPrefab: {fileID: 8507536298031114959, guid: 74b95ec3185a51141bb8971106db76f9, type: 3}
+  charcterMovementPrefab: {fileID: 8221119626217839964, guid: 2f4358e937ba5024e88606b7e3e23b01, type: 3}
